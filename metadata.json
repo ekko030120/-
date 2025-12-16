@@ -1,0 +1,5 @@
+{
+  "name": "贪吃蛇",
+  "description": "经典贪吃蛇游戏，支持键盘方向键和WASD控制。",
+  "requestFramePermissions": []
+}
